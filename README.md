@@ -1,4 +1,4 @@
-Spring Boot Assignment: User Management Microservice (24-Hour Task)
+User Management Microservice
 Objective:
 Develop a User Management REST API using Spring Boot that includes:
 - User registration and login
